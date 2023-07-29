@@ -1,0 +1,21 @@
+.container {
+    box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.2);
+}
+
+.lin {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+.sub_title {
+    text-align: center;
+}
+    
+.blank {
+    color: white;
+}
+
+.firm {
+    height: 200px;
+}
